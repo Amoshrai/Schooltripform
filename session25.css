@@ -1,0 +1,13 @@
+#a{
+    text-align: center;
+    border: 3PX solid black;
+    width: 500px;
+    height: 60px;
+}
+#b{
+    text-align: center;
+}
+.ab{
+    font-size: 30px;
+    background-color: aquamarine;
+}
